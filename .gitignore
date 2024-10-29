@@ -1,0 +1,21 @@
+# Directories
+train/
+test/
+cifar-100-python/
+
+# Compressed files
+*.tar.gz
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local development settings
+.env
+.venv
+env/
+venv/
